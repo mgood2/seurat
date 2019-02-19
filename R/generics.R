@@ -630,7 +630,7 @@ RunALRA <- function(object, ...) {
 #' \code{PrintCCAParams}.
 #' @param object1 First Seurat object
 #' @param object2 Second Seurat object.
-# @param ... Arguments passed to other methods
+#' @param ... Arguments passed to other methods
 #'
 #' @return Returns a combined Seurat object with the CCA results stored.
 #'
